@@ -1,0 +1,70 @@
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\BLL_ToseGar.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\BLL_ToseGar.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\BE_ToseGar.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\DAL_ToseGar.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\BE_ToseGar.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\DAL_ToseGar.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\DAL_ToseGar.dll.config
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.csprojAssemblyReference.cache
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.csproj.CopyComplete
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\EntityFramework.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\EntityFramework.xml
+D:\Projects\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\BLL_ToseGar.dll
+D:\Projects\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\BLL_ToseGar.pdb
+D:\Projects\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\BE_ToseGar.dll
+D:\Projects\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\DAL_ToseGar.dll
+D:\Projects\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\EntityFramework.dll
+D:\Projects\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\BE_ToseGar.pdb
+D:\Projects\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\DAL_ToseGar.pdb
+D:\Projects\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\DAL_ToseGar.dll.config
+D:\Projects\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\EntityFramework.xml
+D:\Projects\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.csprojAssemblyReference.cache
+D:\Projects\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.csproj.CoreCompileInputs.cache
+D:\Projects\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.csproj.CopyComplete
+D:\Projects\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.dll
+D:\Projects\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.pdb
+D:\ToseGar Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\BLL_ToseGar.dll
+D:\ToseGar Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\BLL_ToseGar.pdb
+D:\ToseGar Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\BE_ToseGar.dll
+D:\ToseGar Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\DAL_ToseGar.dll
+D:\ToseGar Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\EntityFramework.dll
+D:\ToseGar Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\BE_ToseGar.pdb
+D:\ToseGar Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\DAL_ToseGar.pdb
+D:\ToseGar Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\DAL_ToseGar.dll.config
+D:\ToseGar Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\EntityFramework.xml
+D:\ToseGar Source\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.csprojAssemblyReference.cache
+D:\ToseGar Source\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.csproj.CoreCompileInputs.cache
+D:\ToseGar Source\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.csproj.CopyComplete
+D:\ToseGar Source\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.dll
+D:\ToseGar Source\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\BLL_ToseGar.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\BLL_ToseGar.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\BE_ToseGar.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\DAL_ToseGar.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\EntityFramework.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\BE_ToseGar.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\DAL_ToseGar.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\DAL_ToseGar.dll.config
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\EntityFramework.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.csproj.AssemblyReference.cache
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.csproj.CopyComplete
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\BLL_ToseGar.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\BLL_ToseGar.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\BE_ToseGar.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\DAL_ToseGar.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\EntityFramework.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\BE_ToseGar.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\DAL_ToseGar.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\DAL_ToseGar.dll.config
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\bin\Debug\EntityFramework.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.csproj.AssemblyReference.cache
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.csproj.CoreCompileInputs.cache
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.csproj.CopyComplete
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\BLL_ToseGar\obj\Debug\BLL_ToseGar.pdb

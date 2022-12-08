@@ -1,0 +1,60 @@
+C:\Users\pc center\source\repos\LicenseKey\LicenseKey\bin\Debug\LicenseKey.exe.config
+C:\Users\pc center\source\repos\LicenseKey\LicenseKey\bin\Debug\LicenseKey.exe
+C:\Users\pc center\source\repos\LicenseKey\LicenseKey\bin\Debug\LicenseKey.pdb
+C:\Users\pc center\source\repos\LicenseKey\LicenseKey\bin\Debug\FoxLearn.License.dll
+C:\Users\pc center\source\repos\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Form1.resources
+C:\Users\pc center\source\repos\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmAbout.resources
+C:\Users\pc center\source\repos\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmGenerate.resources
+C:\Users\pc center\source\repos\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmRegistration.resources
+C:\Users\pc center\source\repos\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Properties.Resources.resources
+C:\Users\pc center\source\repos\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.GenerateResource.cache
+C:\Users\pc center\source\repos\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.CoreCompileInputs.cache
+C:\Users\pc center\source\repos\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.CopyComplete
+C:\Users\pc center\source\repos\LicenseKey\LicenseKey\obj\Debug\LicenseKey.exe
+C:\Users\pc center\source\repos\LicenseKey\LicenseKey\obj\Debug\LicenseKey.pdb
+C:\Users\mhdtr\Desktop\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csprojAssemblyReference.cache
+C:\Users\mhdtr\Desktop\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Form1.resources
+C:\Users\mhdtr\Desktop\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmAbout.resources
+C:\Users\mhdtr\Desktop\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmGenerate.resources
+C:\Users\mhdtr\Desktop\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmRegistration.resources
+C:\Users\mhdtr\Desktop\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Properties.Resources.resources
+C:\Users\mhdtr\Desktop\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.GenerateResource.cache
+C:\Users\mhdtr\Desktop\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.CoreCompileInputs.cache
+C:\Users\mhdtr\Desktop\LicenseKey\LicenseKey\obj\Debug\LicenseKey.exe
+C:\Users\mhdtr\Desktop\LicenseKey\LicenseKey\obj\Debug\LicenseKey.pdb
+D:\Desktop files\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csprojAssemblyReference.cache
+D:\Desktop files\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Form1.resources
+D:\Desktop files\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmGenerate.resources
+D:\Desktop files\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmRegistration.resources
+D:\Desktop files\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Properties.Resources.resources
+D:\Desktop files\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.GenerateResource.cache
+D:\Desktop files\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.CoreCompileInputs.cache
+D:\Desktop files\LicenseKey\LicenseKey\obj\Debug\LicenseKey.exe.manifest
+D:\Desktop files\LicenseKey\LicenseKey\obj\Debug\LicenseKey.application
+D:\Desktop files\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.CopyComplete
+D:\LicenseKey.exe.config
+D:\LicenseKey.exe.manifest
+D:\LicenseKey.application
+D:\Desktop files\LicenseKey\LicenseKey\obj\Debug\LicenseKey.exe
+D:\Desktop files\LicenseKey\LicenseKey\obj\Debug\LicenseKey.pdb
+D:\LicenseKey.exe
+D:\LicenseKey.pdb
+C:\Users\Arash\Desktop\Installations\Installations\LicenseKey_Raw_Project\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.AssemblyReference.cache
+C:\Users\Arash\Desktop\Installations\Installations\LicenseKey_Raw_Project\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Form1.resources
+C:\Users\Arash\Desktop\Installations\Installations\LicenseKey_Raw_Project\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmGenerate.resources
+C:\Users\Arash\Desktop\Installations\Installations\LicenseKey_Raw_Project\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmRegistration.resources
+C:\Users\Arash\Desktop\Installations\Installations\LicenseKey_Raw_Project\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Properties.Resources.resources
+C:\Users\Arash\Desktop\Installations\Installations\LicenseKey_Raw_Project\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.GenerateResource.cache
+C:\Users\Arash\Desktop\Installations\Installations\LicenseKey_Raw_Project\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.CoreCompileInputs.cache
+C:\Users\Arash\Desktop\Installations\Installations\LicenseKey_Raw_Project\LicenseKey\LicenseKey\obj\Debug\LicenseKey.exe
+C:\Users\Arash\Desktop\Installations\Installations\LicenseKey_Raw_Project\LicenseKey\LicenseKey\obj\Debug\LicenseKey.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\راهنمای فعال سازی پروژه توسعه گر\LicenseKey_Raw_Project\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.AssemblyReference.cache
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\راهنمای فعال سازی پروژه توسعه گر\LicenseKey_Raw_Project\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.SuggestedBindingRedirects.cache
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\راهنمای فعال سازی پروژه توسعه گر\LicenseKey_Raw_Project\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Form1.resources
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\راهنمای فعال سازی پروژه توسعه گر\LicenseKey_Raw_Project\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmGenerate.resources
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\راهنمای فعال سازی پروژه توسعه گر\LicenseKey_Raw_Project\LicenseKey\LicenseKey\obj\Debug\LicenseKey.frmRegistration.resources
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\راهنمای فعال سازی پروژه توسعه گر\LicenseKey_Raw_Project\LicenseKey\LicenseKey\obj\Debug\LicenseKey.Properties.Resources.resources
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\راهنمای فعال سازی پروژه توسعه گر\LicenseKey_Raw_Project\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.GenerateResource.cache
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\راهنمای فعال سازی پروژه توسعه گر\LicenseKey_Raw_Project\LicenseKey\LicenseKey\obj\Debug\LicenseKey.csproj.CoreCompileInputs.cache
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\راهنمای فعال سازی پروژه توسعه گر\LicenseKey_Raw_Project\LicenseKey\LicenseKey\obj\Debug\LicenseKey.exe
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\راهنمای فعال سازی پروژه توسعه گر\LicenseKey_Raw_Project\LicenseKey\LicenseKey\obj\Debug\LicenseKey.pdb

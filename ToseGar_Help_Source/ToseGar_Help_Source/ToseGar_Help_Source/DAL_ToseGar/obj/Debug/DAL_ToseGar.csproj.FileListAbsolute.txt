@@ -1,0 +1,30 @@
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\DAL_ToseGar\bin\Debug\DAL_ToseGar.dll.config
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\DAL_ToseGar\bin\Debug\DAL_ToseGar.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\DAL_ToseGar\bin\Debug\DAL_ToseGar.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\DAL_ToseGar\bin\Debug\BE_ToseGar.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\DAL_ToseGar\bin\Debug\EntityFramework.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\DAL_ToseGar\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\DAL_ToseGar\bin\Debug\BE_ToseGar.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\DAL_ToseGar\bin\Debug\EntityFramework.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\DAL_ToseGar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\DAL_ToseGar\obj\Debug\DAL_ToseGar.csprojAssemblyReference.cache
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\DAL_ToseGar\obj\Debug\DAL_ToseGar.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\DAL_ToseGar\obj\Debug\DAL_ToseGar.csproj.CopyComplete
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\DAL_ToseGar\obj\Debug\DAL_ToseGar.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\DAL_ToseGar\obj\Debug\DAL_ToseGar.pdb
+D:\Projects\ToseGar_Help_Source\DAL_ToseGar\bin\Debug\DAL_ToseGar.dll.config
+D:\Projects\ToseGar_Help_Source\DAL_ToseGar\bin\Debug\DAL_ToseGar.dll
+D:\Projects\ToseGar_Help_Source\DAL_ToseGar\bin\Debug\DAL_ToseGar.pdb
+D:\Projects\ToseGar_Help_Source\DAL_ToseGar\bin\Debug\BE_ToseGar.dll
+D:\Projects\ToseGar_Help_Source\DAL_ToseGar\bin\Debug\EntityFramework.dll
+D:\Projects\ToseGar_Help_Source\DAL_ToseGar\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\ToseGar_Help_Source\DAL_ToseGar\bin\Debug\BE_ToseGar.pdb
+D:\Projects\ToseGar_Help_Source\DAL_ToseGar\bin\Debug\EntityFramework.xml
+D:\Projects\ToseGar_Help_Source\DAL_ToseGar\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\ToseGar_Help_Source\DAL_ToseGar\obj\Debug\DAL_ToseGar.csproj.CoreCompileInputs.cache
+D:\Projects\ToseGar_Help_Source\DAL_ToseGar\obj\Debug\DAL_ToseGar.csproj.CopyComplete
+D:\Projects\ToseGar_Help_Source\DAL_ToseGar\obj\Debug\DAL_ToseGar.dll
+D:\Projects\ToseGar_Help_Source\DAL_ToseGar\obj\Debug\DAL_ToseGar.pdb
+D:\Projects\ToseGar_Help_Source\DAL_ToseGar\obj\Debug\DAL_ToseGar.csprojAssemblyReference.cache
+D:\Projects\ToseGar_Help_Source\DAL_ToseGar\obj\Debug\DAL_ToseGar.Migrations.InitialCreate.resources
+D:\Projects\ToseGar_Help_Source\DAL_ToseGar\obj\Debug\DAL_ToseGar.csproj.GenerateResource.cache

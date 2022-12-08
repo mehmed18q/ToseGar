@@ -1,0 +1,12 @@
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\BE_ToseGar\bin\Debug\BE_ToseGar.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\BE_ToseGar\bin\Debug\BE_ToseGar.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\BE_ToseGar\obj\Debug\BE_ToseGar.csprojAssemblyReference.cache
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\BE_ToseGar\obj\Debug\BE_ToseGar.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\BE_ToseGar\obj\Debug\BE_ToseGar.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\BE_ToseGar\obj\Debug\BE_ToseGar.pdb
+D:\Projects\ToseGar_Help_Source\BE_ToseGar\bin\Debug\BE_ToseGar.dll
+D:\Projects\ToseGar_Help_Source\BE_ToseGar\bin\Debug\BE_ToseGar.pdb
+D:\Projects\ToseGar_Help_Source\BE_ToseGar\obj\Debug\BE_ToseGar.csprojAssemblyReference.cache
+D:\Projects\ToseGar_Help_Source\BE_ToseGar\obj\Debug\BE_ToseGar.csproj.CoreCompileInputs.cache
+D:\Projects\ToseGar_Help_Source\BE_ToseGar\obj\Debug\BE_ToseGar.dll
+D:\Projects\ToseGar_Help_Source\BE_ToseGar\obj\Debug\BE_ToseGar.pdb

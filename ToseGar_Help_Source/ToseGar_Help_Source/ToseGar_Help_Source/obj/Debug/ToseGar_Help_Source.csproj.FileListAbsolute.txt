@@ -1,0 +1,925 @@
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csprojAssemblyReference.cache
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.MainForm_SideMenu.resources
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Properties.Resources.resources
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.StimulSoft_Reports.resources
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.GenerateResource.cache
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.exe.config
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.exe
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Guna.UI2.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.CopyComplete
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.exe
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Data.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Charts_Compile.resources
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BE_ToseGar.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BLL_ToseGar.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BE_ToseGar.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BLL_ToseGar.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DAL_ToseGar.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DAL_ToseGar.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DAL_ToseGar.dll.config
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Backup_Restore.resources
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlParser.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlParser.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mohammad Taheri\source\repos\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Save_Read_Pics.resources
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.exe.config
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.exe.manifest
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.application
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.exe
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BE_ToseGar.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BLL_ToseGar.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Identity.Client.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Assessment.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Base.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Data.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Report.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Report.Win.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DAL_ToseGar.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Controls.Win.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Controls.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BE_ToseGar.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BLL_ToseGar.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Identity.Client.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlParser.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlParser.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DAL_ToseGar.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DAL_ToseGar.dll.config
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csprojAssemblyReference.cache
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Backup_Restore.resources
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Charts_Compile.resources
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.MainForm_SideMenu.resources
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Properties.Resources.resources
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Save_Read_Pics.resources
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.StimulSoft_Reports.resources
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.GenerateResource.cache
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.CoreCompileInputs.cache
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.exe.manifest
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.application
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.CopyComplete
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.exe
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.pdb
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.LoginForm_Vertical.resources
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.RegisterAdmin.resources
+D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\FoxLearn.License.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.exe.config
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.exe.manifest
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.application
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.exe
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BE_ToseGar.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BLL_ToseGar.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.SqlServer.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\FoxLearn.License.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Identity.Client.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Assessment.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Newtonsoft.Json.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DAL_ToseGar.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Controls.Win.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Controls.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BE_ToseGar.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BLL_ToseGar.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DevComponents.DotNetBar2.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.SqlServer.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Identity.Client.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlParser.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlParser.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Newtonsoft.Json.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DAL_ToseGar.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DAL_ToseGar.dll.config
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csprojAssemblyReference.cache
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Backup_Restore.resources
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Charts_Compile.resources
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.LoginForm_Vertical.resources
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.MainForm_SideMenu.resources
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Properties.Resources.resources
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.RegisterAdmin.resources
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Save_Read_Pics.resources
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.StimulSoft_Reports.resources
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.GenerateResource.cache
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.CoreCompileInputs.cache
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.exe.manifest
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.application
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.CopyComplete
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.exe
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.pdb
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.CRUD.resources
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Relations_CRUD.resources
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Relations_CRUD_Kala.resources
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Relations_CRUD_Moshtari.resources
+D:\ToseGar Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Relations_CRUD_Factor.resources
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csprojAssemblyReference.cache
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Backup_Restore.resources
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Charts_Compile.resources
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.CRUD.resources
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.LoginForm_Vertical.resources
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.MainForm_SideMenu.resources
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Properties.Resources.resources
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.RegisterAdmin.resources
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Relations_CRUD.resources
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Relations_CRUD_Factor.resources
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Relations_CRUD_Kala.resources
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Relations_CRUD_Moshtari.resources
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Save_Read_Pics.resources
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.StimulSoft_Reports.resources
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.GenerateResource.cache
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.CoreCompileInputs.cache
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.exe
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.exe.config
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.exe.manifest
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.application
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.exe
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BE_ToseGar.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BLL_ToseGar.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.SqlServer.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Identity.Client.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Assessment.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Newtonsoft.Json.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DAL_ToseGar.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Controls.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BE_ToseGar.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BLL_ToseGar.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.SqlServer.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Identity.Client.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlParser.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlParser.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Newtonsoft.Json.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DAL_ToseGar.pdb
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DAL_ToseGar.dll.config
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.exe.manifest
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.application
+E:\Programming\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.CopyComplete
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.AssemblyReference.cache
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Backup_Restore.resources
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Charts_Compile.resources
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.CRUD.resources
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.LoginForm_Vertical.resources
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.MainForm_SideMenu.resources
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Properties.Resources.resources
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.RegisterAdmin.resources
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Relations_CRUD.resources
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Relations_CRUD_Factor.resources
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Relations_CRUD_Kala.resources
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Relations_CRUD_Moshtari.resources
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Save_Read_Pics.resources
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.StimulSoft_Reports.resources
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.GenerateResource.cache
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.exe
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.exe.config
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.exe.manifest
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.application
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.exe
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BE_ToseGar.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BLL_ToseGar.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Identity.Client.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Assessment.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Base.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Data.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Report.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Report.Win.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DAL_ToseGar.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Controls.Win.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Controls.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BE_ToseGar.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BLL_ToseGar.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Identity.Client.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlParser.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlParser.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Newtonsoft.Json.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DAL_ToseGar.pdb
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DAL_ToseGar.dll.config
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.exe.manifest
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.application
+D:\Programming\Projects\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.CopyComplete
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.exe.config
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.exe.manifest
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.application
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.exe
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ToseGar_Help_Source.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BE_ToseGar.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BLL_ToseGar.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Newtonsoft.Json.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DAL_ToseGar.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BE_ToseGar.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\BLL_ToseGar.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlParser.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlParser.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Newtonsoft.Json.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DAL_ToseGar.pdb
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\DAL_ToseGar.dll.config
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.AssemblyReference.cache
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.SuggestedBindingRedirects.cache
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.exe.config
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Backup_Restore.resources
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Charts_Compile.resources
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.CRUD.resources
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.LoginForm_Vertical.resources
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.MainForm_SideMenu.resources
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Properties.Resources.resources
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.RegisterAdmin.resources
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Relations_CRUD.resources
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Relations_CRUD_Factor.resources
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Relations_CRUD_Kala.resources
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Relations_CRUD_Moshtari.resources
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.Save_Read_Pics.resources
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.StimulSoft_Reports.resources
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.GenerateResource.cache
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.CoreCompileInputs.cache
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.exe.manifest
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.application
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.csproj.CopyComplete
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.exe
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\ToseGar_Help_Source\پروژه مکمل دوره توسعه گر\ToseGar_Help_Source\ToseGar_Help_Source\ToseGar_Help_Source\obj\Debug\ToseGar_Help_Source.pdb

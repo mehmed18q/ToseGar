@@ -1,0 +1,548 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StiSerializer version="1.02" type="Net" application="StiReport">
+  <Dictionary Ref="1" type="Dictionary" isKey="true">
+    <BusinessObjects isList="true" count="0" />
+    <Databases isList="true" count="1">
+      <MS_x0020_SQL Ref="2" type="Stimulsoft.Report.Dictionary.StiSqlDatabase" isKey="true">
+        <Alias>MS SQL</Alias>
+        <ConnectionStringEncrypted>9FzRoe9K8wVFYYTM5Bxlf9Fuzc1WX3sZRlu5CMNx5z/fVtEpxgPDzUZ91dxpTKxn9Fr3oc1RS7xpTdn4cBjrN99U9wLFUfO8f0nNzOoY9j/T</ConnectionStringEncrypted>
+        <Name>MS SQL</Name>
+      </MS_x0020_SQL>
+    </Databases>
+    <DataSources isList="true" count="3">
+      <Chart_Sell_BE Ref="3" type="Stimulsoft.Report.Dictionary.StiSqlSource" isKey="true">
+        <Alias>Chart_Sell_BE</Alias>
+        <Columns isList="true" count="2">
+          <value>id,System.Int32</value>
+          <value>Sell,System.Single</value>
+        </Columns>
+        <CommandTimeout>30</CommandTimeout>
+        <Dictionary isRef="1" />
+        <Key>11ccb16a7a92492eb27b7429249eeb5c</Key>
+        <Name>Chart_Sell_BE</Name>
+        <NameInSource>MS SQL</NameInSource>
+        <Parameters isList="true" count="0" />
+        <SqlCommand>select * from Chart_Sell_BE</SqlCommand>
+      </Chart_Sell_BE>
+      <Human_Picture Ref="4" type="Stimulsoft.Report.Dictionary.StiSqlSource" isKey="true">
+        <Alias>Human_Picture</Alias>
+        <Columns isList="true" count="4">
+          <value>id,System.Int32</value>
+          <value>Name,System.String</value>
+          <value>HCode,System.String</value>
+          <value>PictureAddress,System.String</value>
+        </Columns>
+        <CommandTimeout>30</CommandTimeout>
+        <Dictionary isRef="1" />
+        <Key>80a44adf7a43490a959fdf14258048a2</Key>
+        <Name>Human_Picture</Name>
+        <NameInSource>MS SQL</NameInSource>
+        <Parameters isList="true" count="0" />
+        <SqlCommand>select * from Human_Picture</SqlCommand>
+      </Human_Picture>
+      <__MigrationHistory Ref="5" type="Stimulsoft.Report.Dictionary.StiSqlSource" isKey="true">
+        <Alias>__MigrationHistory</Alias>
+        <Columns isList="true" count="4">
+          <value>MigrationId,System.String</value>
+          <value>ContextKey,System.String</value>
+          <value>Model,System.String</value>
+          <value>ProductVersion,System.String</value>
+        </Columns>
+        <CommandTimeout>30</CommandTimeout>
+        <Dictionary isRef="1" />
+        <Key>5dc94a3148e34cde99f33dd7e72c7b00</Key>
+        <Name>__MigrationHistory</Name>
+        <NameInSource>MS SQL</NameInSource>
+        <Parameters isList="true" count="0" />
+        <SqlCommand>select * from __MigrationHistory</SqlCommand>
+      </__MigrationHistory>
+    </DataSources>
+    <Relations isList="true" count="0" />
+    <Report isRef="0" />
+    <Resources isList="true" count="0" />
+    <Variables isList="true" count="0" />
+  </Dictionary>
+  <EngineVersion>EngineV2</EngineVersion>
+  <GlobalizationStrings isList="true" count="0" />
+  <Key>d5406a1d5c094205a515012d35c6a646</Key>
+  <MetaTags isList="true" count="0" />
+  <Pages isList="true" count="1">
+    <Page1 Ref="6" type="Page" isKey="true">
+      <Border>None;Black;2;Solid;False;4;Black</Border>
+      <Brush>Transparent</Brush>
+      <Components isList="true" count="2">
+        <ReportTitle Ref="7" type="ReportTitleBand" isKey="true">
+          <Brush>Transparent</Brush>
+          <ClientRectangle>0,0.2,7.72,0.5</ClientRectangle>
+          <Components isList="true" count="1">
+            <Text1 Ref="8" type="Text" isKey="true">
+              <Brush>Transparent</Brush>
+              <ClientRectangle>0,0,7.7,0.4</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Font>IRANSansWeb(FaNum),14</Font>
+              <HorAlignment>Center</HorAlignment>
+              <Margins>0,0,0,0</Margins>
+              <Name>Text1</Name>
+              <Page isRef="6" />
+              <Parent isRef="7" />
+              <Text>گزارش ساده با ویزارد</Text>
+              <TextBrush>Black</TextBrush>
+              <Type>Expression</Type>
+              <VertAlignment>Center</VertAlignment>
+            </Text1>
+          </Components>
+          <Conditions isList="true" count="0" />
+          <Name>ReportTitle</Name>
+          <Page isRef="6" />
+          <Parent isRef="6" />
+        </ReportTitle>
+        <DataHuman_Picture Ref="9" type="Stimulsoft.Report.Components.Table.StiTable" isKey="true">
+          <Brush>Transparent</Brush>
+          <BusinessObjectGuid isNull="true" />
+          <ClientRectangle>0,1.1,7.72,0.9</ClientRectangle>
+          <ColumnCount>3</ColumnCount>
+          <Components isList="true" count="9">
+            <DataHuman_Picture_Cell1 Ref="10" type="TableCell" isKey="true">
+              <Border>None;[0:31:53];1;Solid;False;4;Black</Border>
+              <Brush>Transparent</Brush>
+              <ClientRectangle>0,0,2.6,0.3</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Font>IRANSansWeb(FaNum),12</Font>
+              <HorAlignment>Center</HorAlignment>
+              <ID>0</ID>
+              <JoinCells isList="true" count="0" />
+              <Margins>0,0,0,0</Margins>
+              <Name>DataHuman_Picture_Cell1</Name>
+              <Page isRef="6" />
+              <Parent isRef="9" />
+              <Restrictions>AllowMove, AllowSelect, AllowChange</Restrictions>
+              <Text>آیدی</Text>
+              <TextBrush>[0:0:0]</TextBrush>
+              <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
+              <Type>Expression</Type>
+              <VertAlignment>Center</VertAlignment>
+            </DataHuman_Picture_Cell1>
+            <DataHuman_Picture_Cell2 Ref="11" type="TableCell" isKey="true">
+              <Border>None;[0:31:53];1;Solid;False;4;Black</Border>
+              <Brush>Transparent</Brush>
+              <ClientRectangle>2.6,0,2.6,0.3</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Font>IRANSansWeb(FaNum),12</Font>
+              <HorAlignment>Center</HorAlignment>
+              <ID>1</ID>
+              <JoinCells isList="true" count="0" />
+              <Margins>0,0,0,0</Margins>
+              <Name>DataHuman_Picture_Cell2</Name>
+              <Page isRef="6" />
+              <Parent isRef="9" />
+              <Restrictions>AllowMove, AllowSelect, AllowChange</Restrictions>
+              <Text>نام فرد</Text>
+              <TextBrush>[0:0:0]</TextBrush>
+              <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
+              <Type>Expression</Type>
+              <VertAlignment>Center</VertAlignment>
+            </DataHuman_Picture_Cell2>
+            <DataHuman_Picture_Cell3 Ref="12" type="TableCell" isKey="true">
+              <Border>None;[0:31:53];1;Solid;False;4;Black</Border>
+              <Brush>Transparent</Brush>
+              <ClientRectangle>5.2,0,2.52,0.3</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Font>IRANSansWeb(FaNum),12</Font>
+              <HorAlignment>Center</HorAlignment>
+              <ID>2</ID>
+              <JoinCells isList="true" count="0" />
+              <Margins>0,0,0,0</Margins>
+              <Name>DataHuman_Picture_Cell3</Name>
+              <Page isRef="6" />
+              <Parent isRef="9" />
+              <Restrictions>AllowMove, AllowSelect, AllowChange</Restrictions>
+              <Text>کدملی</Text>
+              <TextBrush>[0:0:0]</TextBrush>
+              <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
+              <Type>Expression</Type>
+              <VertAlignment>Center</VertAlignment>
+            </DataHuman_Picture_Cell3>
+            <DataHuman_Picture_Cell4 Ref="13" type="TableCell" isKey="true">
+              <Border>None;[0:31:53];1;Solid;False;4;Black</Border>
+              <Brush>Transparent</Brush>
+              <CanGrow>True</CanGrow>
+              <ClientRectangle>0,0.3,2.6,0.3</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Font>IRANSansWeb(FaNum),12</Font>
+              <GrowToHeight>True</GrowToHeight>
+              <HorAlignment>Center</HorAlignment>
+              <ID>3</ID>
+              <JoinCells isList="true" count="0" />
+              <Margins>0,0,0,0</Margins>
+              <Name>DataHuman_Picture_Cell4</Name>
+              <Page isRef="6" />
+              <Parent isRef="9" />
+              <Restrictions>AllowMove, AllowSelect, AllowChange</Restrictions>
+              <Text>{Human_Picture.id}</Text>
+              <TextBrush>[0:0:0]</TextBrush>
+              <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
+              <VertAlignment>Center</VertAlignment>
+            </DataHuman_Picture_Cell4>
+            <DataHuman_Picture_Cell5 Ref="14" type="TableCell" isKey="true">
+              <Border>None;[0:31:53];1;Solid;False;4;Black</Border>
+              <Brush>Transparent</Brush>
+              <CanGrow>True</CanGrow>
+              <ClientRectangle>2.6,0.3,2.6,0.3</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Font>IRANSansWeb(FaNum),12</Font>
+              <GrowToHeight>True</GrowToHeight>
+              <HorAlignment>Center</HorAlignment>
+              <ID>4</ID>
+              <JoinCells isList="true" count="0" />
+              <Margins>0,0,0,0</Margins>
+              <Name>DataHuman_Picture_Cell5</Name>
+              <Page isRef="6" />
+              <Parent isRef="9" />
+              <Restrictions>AllowMove, AllowSelect, AllowChange</Restrictions>
+              <Text>{Human_Picture.Name}</Text>
+              <TextBrush>[0:0:0]</TextBrush>
+              <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
+              <VertAlignment>Center</VertAlignment>
+            </DataHuman_Picture_Cell5>
+            <DataHuman_Picture_Cell6 Ref="15" type="TableCell" isKey="true">
+              <Border>None;[0:31:53];1;Solid;False;4;Black</Border>
+              <Brush>Transparent</Brush>
+              <CanGrow>True</CanGrow>
+              <ClientRectangle>5.2,0.3,2.52,0.3</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Font>IRANSansWeb(FaNum),12</Font>
+              <GrowToHeight>True</GrowToHeight>
+              <HorAlignment>Center</HorAlignment>
+              <ID>5</ID>
+              <JoinCells isList="true" count="0" />
+              <Margins>0,0,0,0</Margins>
+              <Name>DataHuman_Picture_Cell6</Name>
+              <Page isRef="6" />
+              <Parent isRef="9" />
+              <Restrictions>AllowMove, AllowSelect, AllowChange</Restrictions>
+              <Text>{Human_Picture.HCode}</Text>
+              <TextBrush>[0:0:0]</TextBrush>
+              <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
+              <VertAlignment>Center</VertAlignment>
+            </DataHuman_Picture_Cell6>
+            <DataHuman_Picture_Cell7 Ref="16" type="TableCell" isKey="true">
+              <Border>None;[0:31:53];1;Solid;False;4;Black</Border>
+              <Brush>Transparent</Brush>
+              <ClientRectangle>0,0.6,2.6,0.3</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Font>IRANSansWeb(FaNum),12</Font>
+              <HorAlignment>Center</HorAlignment>
+              <ID>6</ID>
+              <JoinCells isList="true" count="0" />
+              <Margins>0,0,0,0</Margins>
+              <Name>DataHuman_Picture_Cell7</Name>
+              <Page isRef="6" />
+              <Parent isRef="9" />
+              <Restrictions>AllowMove, AllowSelect, AllowChange</Restrictions>
+              <TextBrush>[0:0:0]</TextBrush>
+            </DataHuman_Picture_Cell7>
+            <DataHuman_Picture_Cell8 Ref="17" type="TableCell" isKey="true">
+              <Border>None;[0:31:53];1;Solid;False;4;Black</Border>
+              <Brush>Transparent</Brush>
+              <ClientRectangle>2.6,0.6,2.6,0.3</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Font>IRANSansWeb(FaNum),12</Font>
+              <HorAlignment>Center</HorAlignment>
+              <ID>7</ID>
+              <JoinCells isList="true" count="0" />
+              <Margins>0,0,0,0</Margins>
+              <Name>DataHuman_Picture_Cell8</Name>
+              <Page isRef="6" />
+              <Parent isRef="9" />
+              <Restrictions>AllowMove, AllowSelect, AllowChange</Restrictions>
+              <TextBrush>[0:0:0]</TextBrush>
+            </DataHuman_Picture_Cell8>
+            <DataHuman_Picture_Cell9 Ref="18" type="TableCell" isKey="true">
+              <Border>None;[0:31:53];1;Solid;False;4;Black</Border>
+              <Brush>Transparent</Brush>
+              <ClientRectangle>5.2,0.6,2.52,0.3</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Font>IRANSansWeb(FaNum),12</Font>
+              <HorAlignment>Center</HorAlignment>
+              <ID>8</ID>
+              <JoinCells isList="true" count="0" />
+              <Margins>0,0,0,0</Margins>
+              <Name>DataHuman_Picture_Cell9</Name>
+              <Page isRef="6" />
+              <Parent isRef="9" />
+              <Restrictions>AllowMove, AllowSelect, AllowChange</Restrictions>
+              <TextBrush>[0:0:0]</TextBrush>
+            </DataHuman_Picture_Cell9>
+          </Components>
+          <Conditions isList="true" count="0" />
+          <DataSourceName>Human_Picture</DataSourceName>
+          <EvenStyle>Moray_Data1_Even Style</EvenStyle>
+          <FilterMode>Or</FilterMode>
+          <Filters isList="true" count="0" />
+          <FooterRowsCount>1</FooterRowsCount>
+          <HeaderRowsCount>1</HeaderRowsCount>
+          <Name>DataHuman_Picture</Name>
+          <NumberID>9</NumberID>
+          <OddStyle>Moray_Data1_Odd Style</OddStyle>
+          <Page isRef="6" />
+          <Parent isRef="6" />
+          <RightToLeft>True</RightToLeft>
+          <RowCount>3</RowCount>
+          <Sort isList="true" count="2">
+            <value>ASC</value>
+            <value>Name</value>
+          </Sort>
+        </DataHuman_Picture>
+      </Components>
+      <Conditions isList="true" count="0" />
+      <Guid>7201ee2011b64f598227931c81f09915</Guid>
+      <Margins>0.39,0.39,0.39,0.39</Margins>
+      <Name>Page1</Name>
+      <PageHeight>11</PageHeight>
+      <PageWidth>8.5</PageWidth>
+      <PaperSize>Letter</PaperSize>
+      <Report isRef="0" />
+    </Page1>
+  </Pages>
+  <ReferencedAssemblies isList="true" count="8">
+    <value>System.Dll</value>
+    <value>System.Drawing.Dll</value>
+    <value>System.Windows.Forms.Dll</value>
+    <value>System.Data.Dll</value>
+    <value>System.Xml.Dll</value>
+    <value>Stimulsoft.Controls.Dll</value>
+    <value>Stimulsoft.Base.Dll</value>
+    <value>Stimulsoft.Report.Dll</value>
+  </ReferencedAssemblies>
+  <ReportAlias>Report</ReportAlias>
+  <ReportChanged>11/12/2020 11:45:51 PM</ReportChanged>
+  <ReportCreated>11/12/2020 11:42:03 PM</ReportCreated>
+  <ReportFile>D:\Projects\ToseGar_Help_Source\ToseGar_Help_Source\bin\Debug\Wizard.mrt</ReportFile>
+  <ReportGuid>63979659671a4fc9bb762da4be08ea00</ReportGuid>
+  <ReportName>Report</ReportName>
+  <ReportUnit>Inches</ReportUnit>
+  <ReportVersion>2019.4.2.0</ReportVersion>
+  <Script>using System;
+using System.Drawing;
+using System.Windows.Forms;
+using System.Data;
+using Stimulsoft.Controls;
+using Stimulsoft.Base.Drawing;
+using Stimulsoft.Report;
+using Stimulsoft.Report.Dialogs;
+using Stimulsoft.Report.Components;
+
+namespace Reports
+{
+    public class Report : Stimulsoft.Report.StiReport
+    {
+        public Report()        {
+            this.InitializeComponent();
+        }
+
+        #region StiReport Designer generated code - do not modify
+		#endregion StiReport Designer generated code - do not modify
+    }
+}
+</Script>
+  <ScriptLanguage>CSharp</ScriptLanguage>
+  <Styles isList="true" count="12">
+    <Moray_Report_Title1 Ref="19" type="Stimulsoft.Report.StiStyle" isKey="true">
+      <Border>None;[0:31:53];1;Solid;False;4;Black</Border>
+      <Brush>Transparent</Brush>
+      <CollectionName>Moray</CollectionName>
+      <Conditions isList="true" count="1">
+        <Item19 Ref="20" type="Stimulsoft.Report.StiStyleCondition" isKey="true">
+          <ComponentType>Text, Primitive, Image</ComponentType>
+          <Placement>ReportTitle</Placement>
+          <Type>ComponentType, Placement, PlacementNestedLevel</Type>
+        </Item19>
+      </Conditions>
+      <Font>Arial,14,Bold</Font>
+      <Name>Moray_Report_Title1</Name>
+      <NegativeTextBrush>Red</NegativeTextBrush>
+      <TextBrush>[3:81:103]</TextBrush>
+    </Moray_Report_Title1>
+    <Moray_Report_Title2 Ref="21" type="Stimulsoft.Report.StiStyle" isKey="true">
+      <Border>None;[0:31:53];1;Solid;False;4;Black</Border>
+      <Brush>Transparent</Brush>
+      <CollectionName>Moray</CollectionName>
+      <Conditions isList="true" count="1">
+        <Item21 Ref="22" type="Stimulsoft.Report.StiStyleCondition" isKey="true">
+          <ComponentType>Text, Primitive, Image</ComponentType>
+          <OperationPlacementNestedLevel>GreaterThanOrEqualTo</OperationPlacementNestedLevel>
+          <Placement>ReportTitle</Placement>
+          <PlacementNestedLevel>2</PlacementNestedLevel>
+          <Type>ComponentType, Placement, PlacementNestedLevel</Type>
+        </Item21>
+      </Conditions>
+      <Font>Arial,10,Bold</Font>
+      <Name>Moray_Report_Title2</Name>
+      <NegativeTextBrush>Red</NegativeTextBrush>
+      <TextBrush>[3:81:103]</TextBrush>
+    </Moray_Report_Title2>
+    <Moray_Report_Summary Ref="23" type="Stimulsoft.Report.StiStyle" isKey="true">
+      <Border>None;[0:31:53];1;Solid;False;4;Black</Border>
+      <Brush>Transparent</Brush>
+      <CollectionName>Moray</CollectionName>
+      <Conditions isList="true" count="1">
+        <Item23 Ref="24" type="Stimulsoft.Report.StiStyleCondition" isKey="true">
+          <ComponentType>Text, Primitive, Image</ComponentType>
+          <Placement>ReportSummary</Placement>
+          <Type>ComponentType, Placement</Type>
+        </Item23>
+      </Conditions>
+      <Font>Arial,10,Bold</Font>
+      <Name>Moray_Report_Summary</Name>
+      <NegativeTextBrush>Red</NegativeTextBrush>
+      <TextBrush>[3:81:103]</TextBrush>
+    </Moray_Report_Summary>
+    <Moray_Page_Header Ref="25" type="Stimulsoft.Report.StiStyle" isKey="true">
+      <Border>None;[0:31:53];1;Solid;False;4;Black</Border>
+      <Brush>Transparent</Brush>
+      <CollectionName>Moray</CollectionName>
+      <Conditions isList="true" count="1">
+        <Item25 Ref="26" type="Stimulsoft.Report.StiStyleCondition" isKey="true">
+          <ComponentType>Text, Primitive, Image</ComponentType>
+          <Placement>PageHeader</Placement>
+          <Type>ComponentType, Placement</Type>
+        </Item25>
+      </Conditions>
+      <Font>Arial,10</Font>
+      <Name>Moray_Page_Header</Name>
+      <NegativeTextBrush>Red</NegativeTextBrush>
+      <TextBrush>[3:81:103]</TextBrush>
+    </Moray_Page_Header>
+    <Moray_Page_Footer Ref="27" type="Stimulsoft.Report.StiStyle" isKey="true">
+      <Border>None;[0:31:53];1;Solid;False;4;Black</Border>
+      <Brush>Transparent</Brush>
+      <CollectionName>Moray</CollectionName>
+      <Conditions isList="true" count="1">
+        <Item27 Ref="28" type="Stimulsoft.Report.StiStyleCondition" isKey="true">
+          <ComponentType>Text, Primitive, Image</ComponentType>
+          <Placement>PageFooter</Placement>
+          <Type>ComponentType, Placement</Type>
+        </Item27>
+      </Conditions>
+      <Font>Arial,10</Font>
+      <Name>Moray_Page_Footer</Name>
+      <NegativeTextBrush>Red</NegativeTextBrush>
+      <TextBrush>[3:81:103]</TextBrush>
+    </Moray_Page_Footer>
+    <Moray_Group_Header1 Ref="29" type="Stimulsoft.Report.StiStyle" isKey="true">
+      <Border>None;[0:31:53];1;Solid;False;4;Black</Border>
+      <Brush>Transparent</Brush>
+      <CollectionName>Moray</CollectionName>
+      <Conditions isList="true" count="1">
+        <Item29 Ref="30" type="Stimulsoft.Report.StiStyleCondition" isKey="true">
+          <ComponentType>Text, Primitive, Image</ComponentType>
+          <OperationPlacementNestedLevel>GreaterThanOrEqualTo</OperationPlacementNestedLevel>
+          <Placement>GroupHeader</Placement>
+          <Type>ComponentType, Placement, PlacementNestedLevel</Type>
+        </Item29>
+      </Conditions>
+      <Font>Arial,13,Bold</Font>
+      <Name>Moray_Group_Header1</Name>
+      <NegativeTextBrush>Red</NegativeTextBrush>
+      <TextBrush>[3:81:103]</TextBrush>
+    </Moray_Group_Header1>
+    <Moray_Group_Footer1 Ref="31" type="Stimulsoft.Report.StiStyle" isKey="true">
+      <Border>None;[0:31:53];1;Solid;False;4;Black</Border>
+      <Brush>Transparent</Brush>
+      <CollectionName>Moray</CollectionName>
+      <Conditions isList="true" count="1">
+        <Item31 Ref="32" type="Stimulsoft.Report.StiStyleCondition" isKey="true">
+          <ComponentType>Text, Primitive, Image</ComponentType>
+          <Placement>GroupFooter</Placement>
+          <Type>ComponentType, Placement, PlacementNestedLevel</Type>
+        </Item31>
+      </Conditions>
+      <Font>Arial,13,Bold</Font>
+      <Name>Moray_Group_Footer1</Name>
+      <NegativeTextBrush>Red</NegativeTextBrush>
+      <TextBrush>[3:81:103]</TextBrush>
+    </Moray_Group_Footer1>
+    <Moray_Header1 Ref="33" type="Stimulsoft.Report.StiStyle" isKey="true">
+      <Border>None;[0:31:53];1;Solid;False;4;Black;True</Border>
+      <Brush>[3:81:103]</Brush>
+      <CollectionName>Moray</CollectionName>
+      <Conditions isList="true" count="1">
+        <Item33 Ref="34" type="Stimulsoft.Report.StiStyleCondition" isKey="true">
+          <ComponentType>Text, Primitive, Image</ComponentType>
+          <OperationPlacementNestedLevel>GreaterThanOrEqualTo</OperationPlacementNestedLevel>
+          <Placement>Header</Placement>
+          <Type>ComponentType, Placement, PlacementNestedLevel</Type>
+        </Item33>
+      </Conditions>
+      <Font>Arial,8,Bold</Font>
+      <Name>Moray_Header1</Name>
+      <NegativeTextBrush>Red</NegativeTextBrush>
+      <TextBrush>White</TextBrush>
+    </Moray_Header1>
+    <Moray_Data1 Ref="35" type="Stimulsoft.Report.StiStyle" isKey="true">
+      <Border>None;[0:31:53];1;Solid;False;4;Black</Border>
+      <Brush>Transparent</Brush>
+      <CollectionName>Moray</CollectionName>
+      <Conditions isList="true" count="1">
+        <Item35 Ref="36" type="Stimulsoft.Report.StiStyleCondition" isKey="true">
+          <ComponentType>Text, Primitive, Image, CheckBox</ComponentType>
+          <OperationPlacementNestedLevel>GreaterThanOrEqualTo</OperationPlacementNestedLevel>
+          <Placement>Data</Placement>
+          <Type>ComponentType, Placement, PlacementNestedLevel</Type>
+        </Item35>
+      </Conditions>
+      <Font>Arial,8</Font>
+      <Name>Moray_Data1</Name>
+      <NegativeTextBrush>Red</NegativeTextBrush>
+      <TextBrush>[0:0:0]</TextBrush>
+    </Moray_Data1>
+    <Moray_Data1_Odd_x0020_Style Ref="37" type="Stimulsoft.Report.StiStyle" isKey="true">
+      <Border>None;[0:31:53];1;Solid;False;4;Black</Border>
+      <Brush>[219:245:249]</Brush>
+      <CollectionName>Moray</CollectionName>
+      <Conditions isList="true" count="1">
+        <Item37 Ref="38" type="Stimulsoft.Report.StiStyleCondition" isKey="true">
+          <OperationPlacementNestedLevel>GreaterThanOrEqualTo</OperationPlacementNestedLevel>
+          <Placement>DataOddStyle</Placement>
+          <Type>Placement, PlacementNestedLevel</Type>
+        </Item37>
+      </Conditions>
+      <Font>Arial,8</Font>
+      <Name>Moray_Data1_Odd Style</Name>
+      <NegativeTextBrush>Red</NegativeTextBrush>
+      <TextBrush>[0:0:0]</TextBrush>
+    </Moray_Data1_Odd_x0020_Style>
+    <Moray_Data1_Even_x0020_Style Ref="39" type="Stimulsoft.Report.StiStyle" isKey="true">
+      <Border>None;[0:31:53];1;Solid;False;4;Black</Border>
+      <Brush>[120:219:230]</Brush>
+      <CollectionName>Moray</CollectionName>
+      <Conditions isList="true" count="1">
+        <Item39 Ref="40" type="Stimulsoft.Report.StiStyleCondition" isKey="true">
+          <OperationPlacementNestedLevel>GreaterThanOrEqualTo</OperationPlacementNestedLevel>
+          <Placement>DataEvenStyle</Placement>
+          <Type>Placement, PlacementNestedLevel</Type>
+        </Item39>
+      </Conditions>
+      <Font>Arial,8</Font>
+      <Name>Moray_Data1_Even Style</Name>
+      <NegativeTextBrush>Red</NegativeTextBrush>
+      <TextBrush>[0:0:0]</TextBrush>
+    </Moray_Data1_Even_x0020_Style>
+    <Moray_Footer1 Ref="41" type="Stimulsoft.Report.StiStyle" isKey="true">
+      <Border>Top;[0:31:53];3;Solid;False;4;Black</Border>
+      <Brush>[219:245:249]</Brush>
+      <CollectionName>Moray</CollectionName>
+      <Conditions isList="true" count="1">
+        <Item41 Ref="42" type="Stimulsoft.Report.StiStyleCondition" isKey="true">
+          <ComponentType>Text, Primitive, Image</ComponentType>
+          <Placement>Footer</Placement>
+          <Type>ComponentType, Placement, PlacementNestedLevel</Type>
+        </Item41>
+      </Conditions>
+      <Font>Arial,8</Font>
+      <Name>Moray_Footer1</Name>
+      <NegativeTextBrush>Red</NegativeTextBrush>
+      <TextBrush>[0:0:0]</TextBrush>
+    </Moray_Footer1>
+  </Styles>
+</StiSerializer>
